@@ -1,6 +1,4 @@
 def earth():
-    x = "Bangladesh"
-    y = "Barbados"
     country_x = "Bangladesh"
     country_y = "Barbados"
 
